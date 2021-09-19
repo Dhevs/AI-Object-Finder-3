@@ -1,0 +1,13 @@
+.i{font-size:25px;
+   margin:0px;
+ width:100%;}
+ 
+.footer{position:fixed;
+background-color: aqua;
+color:black;
+box-shadow:5px 5px 18px silver;
+bottom:0;
+width:100%;
+text-align:center;}
+
+canvas{margin-top:300px;}
